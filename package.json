@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "name": "list-element",
+  "description": "Test case to demonstrate bug with styling slotted li elements in lit-element.",
+  "main": "list-element.js",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "lit-element": "^2.2.1"
+  },
+  "scripts": {
+    "start": "polymer serve --npm --open"
+  }
+}
